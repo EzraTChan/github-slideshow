@@ -2,5 +2,5 @@
 layout: slide
 title: "HELLO world.
 ---
-github workshop at ANZ
+GitHub :heart: ANZ
 Use the left arrow to go back!
